@@ -1,0 +1,3 @@
+# Ride-Demand-Prediction
+The success of any ride-hailing platform depends on matching supply to demand efficiently. Therefore, one side of this  are two sides in a ride-hailing marketplace: riders (demand) and drivers (supply). One of the challenges that we aim to solve is efficient supply allocation, so riders can always get a ride and drivers have stable earnings. Knowledge about how demand changes over time and space is crucial to comprehend supply dynamics. 
+The task is to explore the data and suggest a solution to guide the drivers towards areas with higher expected demand at given time and location.
